@@ -3,10 +3,8 @@
 import {Post} from './Post';
 
 
-function App() {
+export function App() {
   return (
-    <Post />
+      <Post />
   )
 }
-
-export default App
